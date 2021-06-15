@@ -49,7 +49,8 @@ Candidatos:
 # PREGUNTAS:
 
 
-## Para el framework de auth, basta con usar JSON web tokens?
+## Para el framework de auth, basta con usar JSON web tokens? 
+No, va con passport
 
 
 ## Necesitan todos los componentes un manual es installation guide? 
@@ -62,7 +63,8 @@ Candidatos:
 
 
 ## Que rayos es Application Profiling?
-
+Desempeño, grafico tiempo real para ver hilos, ver problemas del desempeño con base en aan, memoria, recursos de conectividad, comparaciones entre corridas, en e
+archivos de config en repo para profiling, como se estresa, garbage.
 
 
 # HACER
