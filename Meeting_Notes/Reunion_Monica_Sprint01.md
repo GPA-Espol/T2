@@ -52,7 +52,7 @@
 3. Arenero: (Sí/aún no) 
 
 
-# MÓBIL
+# MÓVIL
 
 ## CAMPOS DE REGISTRO
 1. Puede ser util dividir donde esta cada animalito por colonia
