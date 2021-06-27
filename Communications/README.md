@@ -1,8 +1,9 @@
 # Index:
 
 | Name of file | Description | File type | Participants | Date |
-| ------------ | ----------- | --------- | ------------ | ---- |
+| --- | --- | --- | --- | -- |
 | All files in the folder named '1_meeting_agreement_sr1' | The images show the agreed to have the meeting for sprint review 1 for Friday, June 25 at 5:00pm | png Images | Eunice Galvez | June 18, 2021 |
 | 2_meeting_link_sr1.PNG | The image shows the sending of the link for zoom meeting sprint review 1 | png Image | Eunice Galvez | June 25, 2021 |
 | 3_meeting_remember_sr1.PNG | The image shows the remembering of the sprint review meeting to the Client | png Image | Eunice Gálvez | June 25, 2021 |
 | 4_sr1_video.txt | File containing the link of the youtube video as evidence of the sprint review 1 | txt text plain | Valeria Barzola, Allison Brito, Juan Nebel, Erick Pulla and Alex Vélez | June 25, 2021 |
+| 5_actaConformidad_27_6.pdf | File containing the conformity letter signed by the client. (In some places like github the sign could not appear, if this is the case, please download the file and whatch it with your default pdf reader ) | pdf file | Eunice Galvez | June 27, 2021 |
