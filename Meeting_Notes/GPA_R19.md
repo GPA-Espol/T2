@@ -13,6 +13,8 @@ Quarter: P_02<br>
 ## FRONT-END WEB
 1. Tareas:
     1. Hacer sus test.
+        1. Mira si no hay nuevos fallos. 
+        2. Y si hay tiempo, alfinal de todo, poner nuevos.
     2. Hacer lo de Selenium (acceptance testing).
     3. Actualizar la sección de Sprint.
     4. Tabla y justificación del Authorization y Authentication.
