@@ -10,4 +10,5 @@ Quarter: P_02<br>
    debido a que el equipo está bastante atareado por la época y se decidió enfocarnos en avanzar en los
    entregables después de cominucar y compartir sugerencias.
 
+   ALLISON HAS TODO PORFA... GRACIAS
 
